@@ -1,0 +1,39 @@
+modes
+code folding
+spell check, suggest, replace
+jumping around and navigation
+registers
+counters
+verbs and actions
+command line options of vim
+running stuff from within vim
+customize vim with status bar etc. -- the rc files
+vim and tmux
+undo, redo, repeat using dot
+autocomplete with ctrl-p et. al. (see box on page 130 of linux book)
+window splits -- vertical and horizontal
+writing selected lines
+recovering and swap file
+joining lines
+changing case
+map, remap, noremap, nnoremap, nmap, etc. etc.
+plugins and plugin managers
+macros
+vim builtin stuff such as hardcopy and tohtml
+vimscripts
+== Resources ==
+https://begriffs.com/posts/2019-07-19-history-use-vim.html
+http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively
+https://statico.github.io/vim.html
+https://statico.github.io/vim2.html
+https://statico.github.io/vim3.html
+https://news.ycombinator.com/item?id=5244752
+https://news.ycombinator.com/item?id=15400037
+https://vimgifs.com
+https://www.bugsnag.com/blog/tmux-and-vim
+https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
+https://vi.stackexchange.com/questions/84/how-can-i-copy-text-to-the-system-clipboard-from-vim
+vim.reversed.top - a list of tools that have vim interface
+https://catonmat.net/linux-and-vim-notes
+https://catonmat.net/sudo-vim #excellent
+=== Think of how to remember those things ===
