@@ -37,3 +37,8 @@ vim.reversed.top - a list of tools that have vim interface
 https://catonmat.net/linux-and-vim-notes
 https://catonmat.net/sudo-vim #excellent
 === Think of how to remember those things ===
+
+=== Example Text ===
+you know what kind of plan never fails? No plan at all. No plan. You know why? If you make a plan, life never works out that way.
+
+That's why people shouldn't make plans. With no plan, nothing can go wrong and if something spins out of control, it doesn't matter. Life passes most people by when they’re making grand plans for it.
