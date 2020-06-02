@@ -21,6 +21,10 @@ plugins and plugin managers
 macros
 vim builtin stuff such as hardcopy and tohtml
 vimscripts
+syntax highlighting
+auto-completion
+use ctrl-o to go back in history of your vim usage
+
 == Resources ==
 https://begriffs.com/posts/2019-07-19-history-use-vim.html
 http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively
@@ -36,4 +40,6 @@ https://vi.stackexchange.com/questions/84/how-can-i-copy-text-to-the-system-clip
 vim.reversed.top - a list of tools that have vim interface
 https://catonmat.net/linux-and-vim-notes
 https://catonmat.net/sudo-vim #excellent
+https://blog.confirm.ch/mastering-vim-working-with-multiple-files/
+
 === Think of how to remember those things ===
