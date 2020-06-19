@@ -1,28 +1,27 @@
-modes
-code folding
-spell check, suggest, replace
-jumping around and navigation
-registers
-counters
-verbs and actions
 command line options of vim
-running stuff from within vim
-customize vim with status bar etc. -- the rc files
-vim and tmux
+recovering and swap file
+modes
+jumping around and navigation
+verbs and actions
+changing case
 undo, redo, repeat using dot
+code folding
+syntax highlighting
+spell check, suggest, replace
+registers
+macros
+counters
 autocomplete with ctrl-p et. al. (see box on page 130 of linux book)
+running stuff from within vim
 window splits -- vertical and horizontal
 writing selected lines
-recovering and swap file
 joining lines
-changing case
-map, remap, noremap, nnoremap, nmap, etc. etc.
 plugins and plugin managers
-macros
 vim builtin stuff such as hardcopy and tohtml
-vimscripts
-syntax highlighting
-auto-completion
+vim and tmux
+vimscript
+map, remap, noremap, nnoremap, nmap, etc. etc.
+customize vim with status bar etc. -- the rc files
 use ctrl-o to go back in history of your vim usage
 
 == Resources ==
@@ -46,6 +45,7 @@ https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html
 https://sanctum.geek.nz/arabesque/unidex
 https://sanctum.geek.nz/arabesque/series/unix-as-ide
 https://www.youtube.com/watch?v=E-ZbrtoSuzw&feature=youtu.be
+https://www.reddit.com/r/vim/comments/dpmnd1/effective_vimscript
 
 === Think of how to remember those things ===
 
