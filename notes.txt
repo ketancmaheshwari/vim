@@ -41,10 +41,26 @@ vim.reversed.top - a list of tools that have vim interface
 https://catonmat.net/linux-and-vim-notes
 https://catonmat.net/sudo-vim #excellent
 https://blog.confirm.ch/mastering-vim-working-with-multiple-files/
+https://missing.csail.mit.edu/2020/editors
+https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html
+https://sanctum.geek.nz/arabesque/unidex
+https://sanctum.geek.nz/arabesque/series/unix-as-ide
+https://www.youtube.com/watch?v=E-ZbrtoSuzw&feature=youtu.be
 
 === Think of how to remember those things ===
 
-=== Example Text ===
+=== Example Text Full ===
 you know what kind of plan never fails? No plan at all. No plan. You know why? If you make a plan, life never works out that way.
 
-That's why people shouldn't make plans. With no plan, nothing can go wrong and if something spins out of control, it doesn't matter. Life passes most people by when they’re making grand plans for it.
+
+=== Example Text Used ===
+you know what kind of plan never fails? 
+No plan at all. 
+
+That's why people shouldn't make plans. With no plan, nothing can go wrong and if something spins out of control, it doesn't matter. 
+
+=== Slides Plan ===
+20-25 Basics
+10-15 vim script
+25-30 new features
+
