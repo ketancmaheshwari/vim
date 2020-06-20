@@ -1,0 +1,21 @@
+vim is a popular editor that most people are familiar with. However, the new features of vim version 8 are rarely discussed or practiced. 
+
+vim is an example of a worldclass software in addition to being an extremely useful editor.
+
+The knowledge of these features is either hidden in the manuals or scattered across the web in blog posts and such. 
+
+In this tutorial I propose to gather this knowledge, organize it and present in a straightforward format for users to take advantage of.
+
+The tutorial is divided in three parts:
+
+Part 1. Quick recap of basics (20 mins.)
+Part 2. vimscript (20 mins.)
+Part 3. vim 8 essentials (50 mins.)
+
+Part 1 will quickly cover basics and some advanced uses of vim to orient the users and set a context. 
+
+Part 2 will cover the essentials of vimscript. These will have usage in the final part.
+
+Finally, part 3 will cover the new features of the vim version 8.
+
+I intend to include practical examples in each of the topics such that the users not only learn the new concepts, they will also learn places where those concepts are best used. I intend to provide example input files of three types (code, structured data and free text) for practicing purposes. I intend to include exercises for users to practice on site or at home.
