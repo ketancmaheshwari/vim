@@ -46,6 +46,7 @@ https://sanctum.geek.nz/arabesque/unidex
 https://sanctum.geek.nz/arabesque/series/unix-as-ide
 https://www.youtube.com/watch?v=E-ZbrtoSuzw&feature=youtu.be
 https://www.reddit.com/r/vim/comments/dpmnd1/effective_vimscript
+https://www.moolenaar.net/habits.html
 
 === Think of how to remember those things ===
 
