@@ -1,2 +1,2 @@
 # vim
-collection of vim tips, tricks and tools
+collection of vim related resources.
